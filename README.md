@@ -1,5 +1,7 @@
 # Global-Health-and-Demographic-Dataset-Dashboard
 
+<b> NOTE: This app is best viewed when your browser theme is set to light mode </b>
+
 ## Pre- Requisites
 Before running the Dashboard on your local system, you will need to install the following libraries.
 To install a library make sure you are connected to the internet and run this command "pip install <insert name of library>"
