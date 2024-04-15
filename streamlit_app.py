@@ -32,7 +32,7 @@ st.markdown(
 # Load and clean data
 @st.cache_data
 def load_data():
-    data = pd.read_csv('Life_Expectancy_with_Continent.csv')
+    data = pd.read_csv('data/Life_Expectancy_with_Continent.csv')
     data['Year'] = data['Year'].astype(int)
     data.columns = data.columns.str.strip()  # Remove any trailing spaces in column names
     # Filter data to only include years from 2004 to 2014
