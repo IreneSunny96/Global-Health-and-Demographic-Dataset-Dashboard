@@ -1,2 +1,4 @@
 plotly
 streamlit
+seaborn
+matplotlib
