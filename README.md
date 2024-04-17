@@ -17,9 +17,9 @@ Libraries required
 Steps
 1) Download this repository to your system.
 2) Unzip it and place it in the location you wish to execute it from.
-3) Open the terminal and use the cd command to change the directory to the coation where streamlit_app_2.py is stored.
-4) Open streamlit_app_2.py in a code editor of your choice.
-5)  Run this command streamlit run streamlit_app_2.py
+3) Open the terminal and use the cd command to change the directory to the coation where streamlit_app.py is stored.
+4) Open streamlit_app.py in a code editor of your choice.
+5)  Run this command 'streamlit run streamlit_app.py'
 
 ## Background
 The dashboard has been developed as required by the Data Visualisation Coursework offered as part of Master in Data Science and Business Analytics offered by Centrale Supelec and ESSEC Business School, France.
